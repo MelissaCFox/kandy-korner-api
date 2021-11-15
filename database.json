@@ -1,0 +1,203 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "address": "3000 Lincoln Street, Milburn NJ",
+            "squareFootage": 1800,
+            "handicapAccessible": true,
+            "phoneNumber": "(973)555-3074"
+        },
+        {
+            "id": 2,
+            "address": "47 Main St, Anchorage AK",
+            "squareFootage": 1200,
+            "handicapAccessible": false,
+            "phoneNumber": "(907)555-2389"
+        },
+        {
+            "id": 3,
+            "address": "2705 Broadway St, Nashville TN",
+            "squareFootage": 800,
+            "handicapAccessible": true,
+            "phoneNumber": "(615)555-1574"
+        },
+        {
+            "id": 4,
+            "address": "907 Prospect Rd, Mountain View CA",
+            "squareFootage": 2500,
+            "handicapAccessible": true,
+            "phoneNumber": "(650)555-0023"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Almond Joy",
+            "productTypeId": 1,
+            "price": 0.89
+        },
+        {
+            "id": 2,
+            "name": "Reese's Cup",
+            "productTypeId": 1,
+            "price": 1.29
+        },
+        {
+            "id": 3,
+            "name": "Sweedish Fish",
+            "productTypeId": 2,
+            "price": 2.10
+        },
+        {
+            "id": 4,
+            "name": "Skittles",
+            "productTypeId": 3,
+            "price": 1.75
+        },
+        {
+            "id": 5,
+            "name": "Lemon Heads",
+            "productTypeId": 3,
+            "price": 1.35
+        },
+        {
+            "id": 6,
+            "name": "Junior Mints",
+            "productTypeId": 1,
+            "price": 1.15
+        },
+        {
+            "id": 7,
+            "name": "Hubba Bubba",
+            "productTypeId": 4,
+            "price": 0.52
+        },
+        {
+            "id": 8,
+            "name": "Red Vines",
+            "productTypeId": 5,
+            "price": 2.15
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Gina Dee",
+            "locationId": 1
+        },
+        {
+            "id": 2,
+            "name": "Kyle Bantu",
+            "locationId": 2
+        },
+        {
+            "id": 3,
+            "name": "Poe Dameron",
+            "locationId": 2
+        },
+        {
+            "id": 4,
+            "name": "Skye Dihve",
+            "locationId": 4
+        },
+        {
+            "id": 5,
+            "name": "Cady Stanton",
+            "locationId": 4
+        },
+        {
+            "id": 6,
+            "name": "Boo Radley",
+            "locationId": 1
+        },
+        {
+            "id": 7,
+            "name": "Oscar Isaac",
+            "locationId": 3
+        },
+        {
+            "id": 8,
+            "name": "Pedro Pascal",
+            "locationId": 3
+        },
+        {
+            "id": 9,
+            "name": "The Child",
+            "locationId": 3
+        },
+        {
+            "id": 10,
+            "name": "Big Bird",
+            "locationId": 1
+        }
+    ],
+    "productTypes": [
+        {
+            "id": 1,
+            "type": "Chocolate"
+        },
+        {
+            "id": 2,
+            "type": "Gummie"
+        },
+        {
+            "id": 3,
+            "type": "Hard Candy"
+        },
+        {
+            "id": 4,
+            "type": "Gum"
+        },
+        {
+            "id": 5,
+            "type": "Licorice"
+        }
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "Cas Tiel",
+            "email": "cas@angel.com",
+            "member": false
+        },
+        {
+            "id": 2,
+            "name": "Sam Wesson",
+            "email": "sam@wesson.com",
+            "member": false
+        },
+        {
+            "id": 3,
+            "name": "Dean Smith",
+            "email": "dean@smith.com",
+            "member": false
+        },
+        {
+            "id": 4,
+            "name": "Bobby Idjit",
+            "email": "bobby@idjit.com",
+            "member": false
+        }
+    ],
+    "purchases": [
+        {
+            "id": 1,
+            "customerId": 2,
+            "employeeId": 6,
+            "timestamp": "11/15/2021"
+        },
+        {
+            "id": 2,
+            "customerId": 3,
+            "employeeId": 9,
+            "timestamp": "11/15/2021"
+        },
+        {
+            "id": 3,
+            "customerId": 1,
+            "employeeId": 10,
+            "timestamp": "11/15/2021"
+        }
+    ]
+
+}
