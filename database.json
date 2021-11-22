@@ -38,98 +38,84 @@
       "id": 1,
       "name": "Almond Joy",
       "productTypeId": 1,
-      "productLocationId": 1,
       "price": 0.89
     },
     {
       "id": 2,
       "name": "Reese's Cup",
       "productTypeId": 1,
-      "productLocationId": 2,
       "price": 1.29
     },
     {
       "id": 3,
       "name": "Sweedish Fish",
       "productTypeId": 2,
-      "productLocationId": 3,
       "price": 2.12
     },
     {
       "id": 4,
       "name": "Skittles",
       "productTypeId": 3,
-      "productLocationId": 4,
       "price": 1.75
     },
     {
       "id": 5,
       "name": "Lemon Heads",
-      "productLocationId": 5,
       "productTypeId": 3,
       "price": 1.35
     },
     {
       "id": 6,
       "name": "Junior Mints",
-      "productLocationId": 6,
       "productTypeId": 1,
       "price": 1.15
     },
     {
       "id": 7,
       "name": "Hubba Bubba",
-      "productLocationId": 7,
       "productTypeId": 4,
       "price": 0.52
     },
     {
       "id": 8,
       "name": "Red Vines",
-      "productLocationId": 8,
       "productTypeId": 5,
       "price": 2.15
     },
     {
       "id": 9,
-      "name": "Reese's Cup",
+      "name": "Zebra Gum",
       "productTypeId": 1,
-      "productLocationId": 2,
-      "price": 1.29
+      "price": 0.79
     },
     {
       "id": 10,
       "name": "Twix",
       "productTypeId": 1,
-      "productLocationId": 2,
       "price": 1.05
     },
     {
       "id": 11,
       "name": "Jolly Ranchers",
       "productTypeId": 3,
-      "productLocationId": 2,
       "price": 0.87
     },
     {
       "id": 12,
       "name": "Jawbreakers",
       "productTypeId": 3,
-      "productLocationId": 2,
       "price": 0.89
     },
     {
       "id": 13,
       "name": "Peach Rings",
       "productTypeId": 2,
-      "productLocationId": 2,
       "price": 1.15
     },
     {
       "id": 14,
       "name": "Twizzlers",
       "productTypeId": 5,
-      "productLocationId": 2,
       "price": 1.24
     }
   ],
@@ -173,7 +159,7 @@
       "fullTime": true,
       "hourlyRate": "32",
       "id": 5
-    }, 
+    },
     {
       "name": "Jake Abel",
       "locationId": 1,
@@ -312,6 +298,156 @@
       "id": 11,
       "productId": 3,
       "locationId": 4
+    },
+    {
+      "id": 12,
+      "productId": 4,
+      "locationId": 1 
+    },
+    {
+      "id": 13,
+      "productId": 5,
+      "locationId": 1 
+    },
+    {
+      "id": 14,
+      "productId": 6,
+      "locationId": 1 
+    },
+    {
+      "id": 15,
+      "productId": 7,
+      "locationId": 1 
+    },
+    {
+      "id": 16,
+      "productId": 8,
+      "locationId": 1 
+    },
+    {
+      "id": 17,
+      "productId": 8,
+      "locationId": 2 
+    },
+    {
+      "id": 18,
+      "productId": 9,
+      "locationId": 2 
+    },
+    {
+      "id": 19,
+      "productId": 10,
+      "locationId": 2 
+    },
+    {
+      "id": 20,
+      "productId": 11,
+      "locationId": 2 
+    },
+    {
+      "id": 21,
+      "productId": 12,
+      "locationId": 2 
+    },
+    {
+      "id": 22,
+      "productId": 13,
+      "locationId": 3 
+    },
+    {
+      "id": 23,
+      "productId": 14,
+      "locationId": 3 
+    },
+    {
+      "id": 24,
+      "productId": 1,
+      "locationId": 3 
+    },
+    {
+      "id": 25,
+      "productId": 3,
+      "locationId": 3 
+    },
+    {
+      "id": 26,
+      "productId": 7,
+      "locationId": 3 
+    },
+    {
+      "id": 27,
+      "productId": 10,
+      "locationId": 3 
+    },
+    {
+      "id": 28,
+      "productId": 12,
+      "locationId": 3 
+    },
+    {
+      "id": 29,
+      "productId": 2,
+      "locationId": 3 
+    },
+    {
+      "id": 30,
+      "productId": 4,
+      "locationId": 4 
+    },
+    {
+      "id": 31,
+      "productId": 6,
+      "locationId": 4 
+    },
+    {
+      "id": 32,
+      "productId": 9,
+      "locationId": 4 
+    },
+    {
+      "id": 33,
+      "productId": 11,
+      "locationId": 4 
+    },
+    {
+      "id": 34,
+      "productId": 13,
+      "locationId": 4 
+    },
+    {
+      "id": 35,
+      "productId": 5,
+      "locationId": 4 
+    },
+    {
+      "id": 36,
+      "productId": 12,
+      "locationId": 4 
+    },
+    {
+      "id": 37,
+      "productId": 1,
+      "locationId": 4 
+    },
+    {
+      "id": 38,
+      "productId": 12,
+      "locationId": 1 
+    },
+    {
+      "id": 39,
+      "productId": 14,
+      "locationId": 1 
+    },
+    {
+      "id": 40,
+      "productId": 13,
+      "locationId": 2 
+    },
+    {
+      "id": 41,
+      "productId": 2,
+      "locationId": 2 
     }
   ],
   "purchases": [
@@ -338,6 +474,12 @@
       "productLocationId": 1,
       "datePurchased": "11/19/2021",
       "id": 4
+    },
+    {
+      "customerId": 5,
+      "productLocationId": 5,
+      "datePurchased": "11/21/2021",
+      "id": 5
     }
   ]
 }
