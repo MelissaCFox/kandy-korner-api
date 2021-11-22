@@ -89,9 +89,59 @@
       "productLocationId": 8,
       "productTypeId": 5,
       "price": 2.15
+    },
+    {
+      "id": 9,
+      "name": "Reese's Cup",
+      "productTypeId": 1,
+      "productLocationId": 2,
+      "price": 1.29
+    },
+    {
+      "id": 10,
+      "name": "Twix",
+      "productTypeId": 1,
+      "productLocationId": 2,
+      "price": 1.05
+    },
+    {
+      "id": 11,
+      "name": "Jolly Ranchers",
+      "productTypeId": 3,
+      "productLocationId": 2,
+      "price": 0.87
+    },
+    {
+      "id": 12,
+      "name": "Jawbreakers",
+      "productTypeId": 3,
+      "productLocationId": 2,
+      "price": 0.89
+    },
+    {
+      "id": 13,
+      "name": "Peach Rings",
+      "productTypeId": 2,
+      "productLocationId": 2,
+      "price": 1.15
+    },
+    {
+      "id": 14,
+      "name": "Twizzlers",
+      "productTypeId": 5,
+      "productLocationId": 2,
+      "price": 1.24
     }
   ],
   "employees": [
+    {
+      "name": "Katie Cassidy",
+      "locationId": 4,
+      "manager": true,
+      "fullTime": true,
+      "hourlyRate": "38",
+      "id": 1
+    },
     {
       "name": "Oscar Isaac",
       "locationId": 2,
@@ -115,6 +165,46 @@
       "fullTime": true,
       "hourlyRate": "45",
       "id": 4
+    },
+    {
+      "name": "Jesse Plemons",
+      "locationId": 1,
+      "manager": true,
+      "fullTime": true,
+      "hourlyRate": "32",
+      "id": 5
+    }, 
+    {
+      "name": "Jake Abel",
+      "locationId": 1,
+      "manager": false,
+      "fullTime": true,
+      "hourlyRate": "28",
+      "id": 6
+    },
+    {
+      "name": "Saoirse Ronan",
+      "locationId": 3,
+      "manager": false,
+      "fullTime": false,
+      "hourlyRate": "22",
+      "id": 7
+    },
+    {
+      "name": "Stephanie Beatriz",
+      "locationId": 3,
+      "manager": true,
+      "fullTime": true,
+      "hourlyRate": "30",
+      "id": 8
+    },
+    {
+      "name": "Captain Holt",
+      "locationId": 4,
+      "manager": false,
+      "fullTime": true,
+      "hourlyRate": "34",
+      "id": 9
     }
   ],
   "productTypes": [
